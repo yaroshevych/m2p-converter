@@ -1,0 +1,3 @@
+m2p-converter converts conversation history from Miranda IM database to Pidgin-compartible conversation logs. These logs can be copied into Pidgin logs directory and will be shown in Pidgin.
+
+Currently supports only ICQ protocol.

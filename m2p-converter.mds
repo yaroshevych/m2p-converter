@@ -1,0 +1,16 @@
+<Combine name="m2p-converter" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="m2p-converter" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="m2p-converter" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="m2p-converter" single="True">
+    <Execute type="None" entry="m2p-converter" />
+  </StartMode>
+  <Entries>
+    <Entry filename="m2p-converter/m2p-converter.mdp" />
+  </Entries>
+</Combine>
